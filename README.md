@@ -1,1 +1,1 @@
-# practice_session_30
+# this repo is created for practicing git tool
